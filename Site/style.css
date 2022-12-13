@@ -1,0 +1,18 @@
+.navbar{
+    flex-shrink: initial;
+    position:relative;
+}
+.flexbox-container{
+    display: flex;
+   justify-content: space-around;
+   padding: 4px;
+}
+.card-title{
+    text-align:center;
+    
+}
+.card{
+    width: 200px;
+    height:140px
+    ;
+}
